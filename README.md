@@ -19,8 +19,11 @@ Source : Minecraft completa 15 anos: relembre o game
 
 # Description visuelle du projet
 
-![](Image110.jpg)
 Le concept répond aux demandes du public cible en leurs proposant une fonctionnalité de compagnon app
+
+![Minecraft](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3d0b6ec-4a98-46ce-9996-20fbed1930d1" />
+)
+
 Source : Minecraft Survival guide by Jimmy Nathanel | Goodreads 地图 - Minecraft Wiki，最详细的我的世界百科
 
 # Description visuelle du projet partie 2
