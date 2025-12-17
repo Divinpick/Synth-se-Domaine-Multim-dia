@@ -1,6 +1,5 @@
 # Synth-se-Domaine-Multim-dia
 La présentation en markdown
-<!-- Slide number: 1 -->
 
 # Mapcraft
 
@@ -32,20 +31,20 @@ Source : Minecraft Survival guide by Jimmy Nathanel | Goodreads 地图 - Minecra
 # Description visuelle du projet partie 2
 
 ![](Espaceréservéducontenu3.jpg)
-L'application agis comme le lanceur de minecraft.
+L'application agit comme le lanceur de Minecraft.
 Vous donne l'option d'avoir des balises
 La carte te permet de te guider et d'ajouter des balises en temps réel
-Chercher des compagnons du tier monde
-Offre le multijoueurs et la solo selon la préférence
+Chercher des compagnons du tiers monde
+Offre le multijoueur et la solo selon la préférence
 Source : Copilot
 
 <!-- Slide number: 5 -->
 # Description des tâches principale
-Commencer par codé l'application et la rendre accèssible en phase early-access
+Commencer par coder l'application et la rendre accessible en phase early-access
 
-Rendre les menus attrayant pour les spectateurs
+Rendre les menus attrayants pour les spectateurs
 
-Permettre  l'accessibilité entre bedrock et java en créant un mod
+Permettre  l'accessibilité entre Bedrock et Java en créant un mod
 
 Le rendre officiel au public et corriger les bugs selon le feedback reçus
 
@@ -55,7 +54,7 @@ Le rendre officiel au public et corriger les bugs selon le feedback reçus
 
 <!-- Slide number: 7 -->
 # Analyse des besoins
-Le public cible sont 13+ car l'application a une fonction de chercher des compagnons du tier monde
+Le public cible est 13+ car l'application a une fonction de chercher des compagnons du tiers monde
 
 Le plus important de l'application est la fonction compagnon
 
@@ -68,12 +67,12 @@ Source : 60 Guidance Quotes To Give You Support & Direction
 
 <!-- Slide number: 9 -->
 # La Maquette
-Voici le résultat final de l'application ainsi que l'interface principal
+Voici le résultat final de l'application ainsi que l'interface principale
 
 <!-- Slide number: 10 -->
 # Conclusion
 Ce qui rend le projet innovant est une application qui offre tous les besoins du joueur
 
-Ce qui distingue de la concurrence est la possibilité de pouvoir avoir quelqu'un qui peux incarnée le compagnon pour te guidé en temps réel
+Ce qui distingue de la concurrence est la possibilité de pouvoir avoir quelqu'un qui peut incarner le compagnon pour te guider en temps réel
 
-Ce qui attireraient les investisseurs Kickstarter est la fonction compagnon
+Ce qui attirerait les investisseurs Kickstarter est la fonction compagnon
