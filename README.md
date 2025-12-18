@@ -41,8 +41,6 @@ Chercher des compagnons du tiers monde
 
 Offre le multijoueur et la solo selon la préférence
 
-![IMAGE COPILOT](METTRE LE LIENS)
-
 Source : Copilot
 
 # Description des tâches principale
@@ -57,6 +55,21 @@ Le rendre officiel au public et corriger les bugs selon le feedback reçus
 
 # Descriptions des tâches principale partie 2
 
+![code](https://as2.ftcdn.net/jpg/02/18/53/75/1000_F_218537567_Z4W3By4FP4VTi8ncqA0Uv1RiGdcuKWnk.jpg)
+
+![oeil](https://wholehealthclub.org/website/wp-content/uploads/Iris_-_right_eye_of_a_girl-300x178.jpg)
+
+![crossplay](https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/Crossplay-All-Platforms.jpg?q=50&fit=crop&w=1008&h=693&dpr=1.5)
+
+![ouroboros](https://miro.medium.com/v2/resize:fit:720/format:webp/0*5Fj2h0lUPTon4vew.png)
+
+[Source 1](https://stock.adobe.com/fr/images/desktop-source-code-and-wallpaper-by-computer-language-with-coding-and-programming/218537567)
+
+[Source 2](https://wholehealthclub.org/website/eye-blog/)
+
+[Source 3](https://screenrant.com/crossplay-standard-multiplayer-games-op-ed/)
+
+[Source 4](https://medium.com/@alina.prmanager/what-is-devops-5f761ff3a704)
 # Analyse des besoins
 
 Le public cible est 13+ car l'application a une fonction de chercher des compagnons du tiers monde
